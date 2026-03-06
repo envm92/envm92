@@ -49,7 +49,7 @@ Right now I'm leaning into AI-powered tools, deepening my Python skills, and loo
 
 ### 🤖 [Code Mentor App](https://github.com/envm92/my-code-mentor-app)
 AI-powered learning tool that explains code logic and suggests solutions in real time.  
-Built with **React · TypeScript · Node.js · OpenAI API** — from ideation to deployment, fully solo.
+Built with **Angular · TypeScript · Node.js · OpenAI API** — from ideation to deployment, fully solo.
 
 ### 🗺 [Orcasound Sightings Map](https://github.com/orcasound/orcamap-sightigs-web-element)
 Open source contribution — a production **Web Component** built with JavaScript and OpenLayers for the Orcasound wildlife tracking project. Shipped via PR, code review, and community collaboration.
